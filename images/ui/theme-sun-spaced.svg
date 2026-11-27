@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="#474849">
+  <defs>
+    <path id="ray" d="M14.05 1h1.5v1.5h-1.5z M16.45 1h1.5v1.5h-1.5z
+      M14.05 3.4h1.5v1.5h-1.5z M16.45 3.4h1.5v1.5h-1.5z
+      M14.05 5.8h1.5v1.5h-1.5z M16.45 5.8h1.5v1.5h-1.5z"/>
+  </defs>
+  <use href="#ray"/>
+  <use href="#ray" transform="rotate(45 16 16)"/>
+  <use href="#ray" transform="rotate(90 16 16)"/>
+  <use href="#ray" transform="rotate(135 16 16)"/>
+  <use href="#ray" transform="rotate(180 16 16)"/>
+  <use href="#ray" transform="rotate(225 16 16)"/>
+  <use href="#ray" transform="rotate(270 16 16)"/>
+  <use href="#ray" transform="rotate(315 16 16)"/>
+  <path d="M12.85 10.45h1.5v1.5h-1.5z M15.25 10.45h1.5v1.5h-1.5z M17.65 10.45h1.5v1.5h-1.5z
+    M10.45 12.85h1.5v1.5h-1.5z M12.85 12.85h1.5v1.5h-1.5z M15.25 12.85h1.5v1.5h-1.5z M20.05 12.85h1.5v1.5h-1.5z
+    M10.45 15.25h1.5v1.5h-1.5z M12.85 15.25h1.5v1.5h-1.5z M15.25 15.25h1.5v1.5h-1.5z M17.65 15.25h1.5v1.5h-1.5z M20.05 15.25h1.5v1.5h-1.5z
+    M10.45 17.65h1.5v1.5h-1.5z M12.85 17.65h1.5v1.5h-1.5z M15.25 17.65h1.5v1.5h-1.5z M17.65 17.65h1.5v1.5h-1.5z M20.05 17.65h1.5v1.5h-1.5z
+    M12.85 20.05h1.5v1.5h-1.5z M15.25 20.05h1.5v1.5h-1.5z M17.65 20.05h1.5v1.5h-1.5z"/>
+</svg>
